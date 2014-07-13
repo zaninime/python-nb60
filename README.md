@@ -16,3 +16,6 @@ m = nb60.nb60ton(s)
 
 print "{0} = {1}, NewBase60({0}) = {2}".format(n, m, s) 
 ```
+
+## Installation
+This is a standard Python module, so a simple `python setup.py install` should do the trick.
