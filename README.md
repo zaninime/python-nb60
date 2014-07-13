@@ -6,7 +6,7 @@ Please refer to [Tantek's website](http://tantek.pbworks.com/w/page/19402946/New
 
 ## Usage
 
-```
+```python
 from nb60 import nb60
 
 n = 500
