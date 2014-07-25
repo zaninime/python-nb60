@@ -19,3 +19,7 @@ print "{0} = {1}, NewBase60({0}) = {2}".format(n, m, s)
 
 ## Installation
 This is a standard Python module, so a simple `python setup.py install` should do the trick.
+
+## License
+For this project I chose the MIT License. You can find a full copy of it in the [LICENSE](LICENSE) file.
+
